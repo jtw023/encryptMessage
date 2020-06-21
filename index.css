@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row {
+    margin-top: 33vh;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+nav {
+    background: #b6797d;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    font-size: 28px;
+    margin: 0;
+    padding-top: 15px;
+}
+
+.btn {
+    background: #b6797d;
+    color: black;
+}
+
+label {
+    color: black;
+}
+
+html,
+.card-panel {
+    background: #c8c8c8;
+}
